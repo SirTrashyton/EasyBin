@@ -8,12 +8,12 @@ Desktop to desktop file sharing without email, instead with a simple 4 digit PIN
 You must run the EasyBin server in order for clients to connect.  
 I would include a JAR file, however I do not have the means to host a server.   
 This works through TCP sockets, so local or portforward'd adresses will work.
-The IP for the EasyBin server is located in "/mich/Pref" as "SERVER_IP".  
+The IP for the EasyBin server is located in ``"/mich/Pref" as "SERVER_IP".``  
 Upon client connection a 4 digit PIN is assigned. This is your tag/username/identifier/PIN.  
 To send a file to a user, (1) enter their PIN. (2) select file. (3) click 'send'.  
 You may copy this project into your IDE and:  
-  ```run "/server/BinServer.java" for the server``` . 
-  ```run "/client/LaunchScreen.java" for the clients.``` . 
+  run ``"/server/BinServer.java"``for the server . 
+  run ``"/client/LaunchScreen.java"`` for the clients.. 
 
 # What have I learned
 Short term project planning and execution.
