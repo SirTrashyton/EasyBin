@@ -27,7 +27,7 @@ KryoNet used for easy networking .
 JavaFX (native to Java) . 
 
 # Additional Info
-I made this program with the goal of the simpliest, no extra thrills fill sharing program.  
+I made this program with the goal of the simpliest, no extra thrills file-sharing program.  
 Feel free to use my code for educational purposes.  
 If you are interested in an expanded version of this application, message me.
 
