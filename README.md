@@ -16,15 +16,15 @@ You may copy this project into your IDE and:
   run ``"/client/LaunchScreen.java"`` for the clients.. 
 
 # What have I learned
-Short term project planning and execution.
-Basic networking by sending Java objects over the net . 
-File reading and writing . 
-Multi-threading techniques . 
-JavaFX use for cross-platform desktop applications . 
+Short term project planning and execution.  
+Basic networking by sending Java objects over the net .   
+File reading and writing .   
+Multi-threading techniques .   
+JavaFX use for cross-platform desktop applications .  
 
 # Libraries Used
-KryoNet used for easy networking
-JavaFX (native to Java)
+KryoNet used for easy networking . 
+JavaFX (native to Java) . 
 
 # Additional Info
 I made this program with the goal of the simpliest, no extra thrills fill sharing program.  
