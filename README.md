@@ -23,12 +23,12 @@ Multi-threading techniques .
 JavaFX use for cross-platform desktop applications .  
 
 # Libraries Used
-KryoNet used for easy networking . 
-JavaFX (native to Java) . 
+KryoNet .  
+JavaFX . 
 
 # Additional Info
-I made this program with the goal of the simpliest, no extra thrills file-sharing program.  
-Feel free to use my code for educational purposes.  
+I made this program with the goal of the simpliest, no extra thrills file-sharing program. 
+Maximum file sizes can be changed as the startup parameters.
 If you are interested in an expanded version of this application, message me.
 
 # Screenshots
